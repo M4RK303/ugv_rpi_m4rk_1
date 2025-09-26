@@ -48,7 +48,7 @@ You can clone this repository from M4RK303 GitHub to your local machine.
 
 ### git clone
 
-     git clone https://github.com/M4RK303/m4rk_ugv_rpi
+     git clone https://github.com/M4RK303/ugv_rpi_m4rk_1.git
 
 ### Go to the directory ugv_rpi
 
