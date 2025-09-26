@@ -52,7 +52,7 @@ You can clone this repository from M4RK303 GitHub to your local machine.
 
 ### Go to the directory ugv_rpi
 
-    cd ugv_rpi/
+    cd ugv_rpi_m4rk_1/
 
 ### Grant execution permission to the installation script setup.sh
 
